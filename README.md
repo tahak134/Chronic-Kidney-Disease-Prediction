@@ -62,10 +62,7 @@ uvicorn api.main:app --host 0.0.0.0 --port 8000 --reload
 ```
 
 The API will be live at:  
-👉 http://127.0.0.1:8000  
-
-Interactive API docs:  
-👉 http://127.0.0.1:8000/docs  
+👉 http://13.53.123.119/docs
 
 ---
 
