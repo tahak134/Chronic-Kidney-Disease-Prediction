@@ -1,0 +1,43 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.joblib
+
+# Virtual environments
+venv/
+.env/
+*.env
+
+# Jupyter & notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Data
+data/
+*.csv
+*.xlsx
+
+# Models
+models/
+*.sav
+*.h5
+
+# Logs
+*.log
+logs/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# MLflow
+mlruns/
+mlflow.db
+
+# Docker
+*.tar
